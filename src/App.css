@@ -1,0 +1,51 @@
+.nav-link {
+  color: white;
+  margin-left: 60px;
+}
+.x {
+  font-size: 60px;
+}
+.y {
+  font-size: 30px;
+}
+#z {
+  size: 100px;
+  width: 1000px;
+}
+#o {
+  size: 40px;
+  background-color: red;
+  
+}
+#r {
+  size: 80px;
+}
+#l {
+  color: azure;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+.iphone8{
+  background-color: rgb(179, 4, 4);
+  
+}
+#ipd{
+  width: 1280px;
+}
+#iwatch{
+  width: 1280px;
+}
+.nav-link:hover{
+  color: bisque;
+}
