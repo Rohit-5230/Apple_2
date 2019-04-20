@@ -1,2 +1,11 @@
-# apple2_reactjs
-Apple website with Reactjs
+Apple_2
+=
+My webpage made in React_JS.
+
+Language
+=
+- JavaScript in React_JS.
+- CSS
+
+
+
