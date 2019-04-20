@@ -15,7 +15,7 @@ Dependencies
 
 I have some questions!
 =
-please visit https://github.com/Rohit-5230/backendcrypto/issues
+please visit https://github.com/Rohit-5230/Apple_2/issues
 
 Contacts
 =
