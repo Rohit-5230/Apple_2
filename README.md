@@ -17,7 +17,7 @@ I have some questions!
 =
 please visit https://github.com/Rohit-5230/Apple_2/issues
 
-Contacts
+Contacts:
 =
 - Email: indian5230@gmail.com
 - Linkedin: https://www.linkedin.com/in/rohit-kumar-singh-657649165/
